@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Good Morning"
+date: 2016-04-01 11:30:00 +0800
 categories: blog relax
 tags: relax
 ---
