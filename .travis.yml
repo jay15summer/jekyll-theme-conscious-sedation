@@ -3,5 +3,5 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
-    branch: gh-pages
-
+    branch: master
+    target_branch=gh-pages
