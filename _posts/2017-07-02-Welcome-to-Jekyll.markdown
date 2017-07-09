@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+date: 2015-07-02 11:30:00 +0800
 categories: blog 
 tags: jekyll updates
 ---
