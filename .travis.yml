@@ -5,3 +5,5 @@ deploy:
   on:
     branch: master
   target_branch: gh-pages
+  branch:
+    Github Pages
